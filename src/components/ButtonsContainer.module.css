@@ -38,15 +38,19 @@ button[data-type="operator"] {
   color: white;
   border: none;
   border-radius: 5px;
-
+ font-weight: 900;
   cursor: pointer;
+}
+
+button[data-type="operator"]:hover{
+  background-color: rgb(95, 63, 0);
 }
 
 button[data-type="number"] {
   background-color: white;
-  color: gray;
+  color: rgb(43, 43, 43);
   border: none;
   border-radius: 5px;
-
+ font-weight: 900;
   cursor: pointer;
 }

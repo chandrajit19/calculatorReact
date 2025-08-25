@@ -10,6 +10,7 @@
     border-top-right-radius: 5px;
     box-shadow: 1px 1px 3px rgb(74, 73, 73);
     letter-spacing: 2px;
+    font-weight: 700;
     outline: none;
     text-align: right;
     &::placeholder{
